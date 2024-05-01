@@ -1,0 +1,14 @@
+C:\Malik\C#Vis\challenge\bin\Debug\net8.0\challenge.exe
+C:\Malik\C#Vis\challenge\bin\Debug\net8.0\challenge.deps.json
+C:\Malik\C#Vis\challenge\bin\Debug\net8.0\challenge.runtimeconfig.json
+C:\Malik\C#Vis\challenge\bin\Debug\net8.0\challenge.dll
+C:\Malik\C#Vis\challenge\bin\Debug\net8.0\challenge.pdb
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.AssemblyInfoInputs.cache
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.AssemblyInfo.cs
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.csproj.CoreCompileInputs.cache
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.dll
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\refint\challenge.dll
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.pdb
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\challenge.genruntimeconfig.cache
+C:\Malik\C#Vis\challenge\obj\Debug\net8.0\ref\challenge.dll
